@@ -1,0 +1,6 @@
+U:\vs12_projects\KMLParser\KMLParser\bin\Debug\KMLParser.exe.config
+U:\vs12_projects\KMLParser\KMLParser\bin\Debug\KMLParser.exe
+U:\vs12_projects\KMLParser\KMLParser\bin\Debug\KMLParser.pdb
+U:\vs12_projects\KMLParser\KMLParser\obj\Debug\KMLParser.csprojResolveAssemblyReference.cache
+U:\vs12_projects\KMLParser\KMLParser\obj\Debug\KMLParser.exe
+U:\vs12_projects\KMLParser\KMLParser\obj\Debug\KMLParser.pdb
